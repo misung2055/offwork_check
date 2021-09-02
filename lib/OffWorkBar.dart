@@ -11,7 +11,6 @@ import 'DbHandle.dart';
 import 'FixedValue.dart';
 
 class SignPainter extends CustomPainter {
-
   List<List<Offset>> points;
 
   SignPainter(this.points);
